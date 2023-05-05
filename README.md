@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p>📫 How to reach me:</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mike-dalton-4a002224"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
 <!--
 😄 Pronouns: ...
 ⚡ Fun fact: ...
