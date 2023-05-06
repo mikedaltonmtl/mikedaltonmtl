@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>👯 I’m looking to collaborate on anything level-appropriate, preferably as a way to learn TypeScript.</p>
 <p>🤔 I’m looking for help with (believe it or not!) learning TypeScript.</p>
 <p>💬 Ask me about the English Premier League (if you need help falling asleep).</p>
-<p>📫 How to reach me:</p><!- -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<h3><!--📫 -->How to reach me:</h3><!- -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/mike-dalton-4a002224"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto: michael.j.dalton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
