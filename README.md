@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3>:bust_in_silhouette: Mike Dalton</h3>
-Seeking new opportunity in Web Development
+Seeking new opportunity in Web Development:
 <br/><br/>
 
 <!--
