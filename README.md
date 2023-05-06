@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <p>😄 I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</p>
-<p>I've been a stay-at-home Dad for the past ten years, but with the (three) kids now out of the house during the day, I can't wait to actually have an adult conversation again! More seriously I've long held a passion for coding, for understanding how things work under the hood, and I see this as my big chance to do this stuff everyday. They say that 'if you're doing what you love it's not really work' (or something like that), well, I'm ready to put that to the test!</p>
+<p>I've been a stay-at-home Dad for the past ten years, but with the youngest of our (three) kids now at school, I can't wait to actually have an adult conversation again! More seriously I've long held a passion for coding, for understanding how things work under the hood, and I see this as my big chance to do this stuff everyday. They say that 'if you're doing what you love it's not really work' (or something like that), well, I'm ready to put that to the test!</p>
 <p>As most parents will probably agree, it's not easy to have too many outside interests when you're bringing up young children. I've not climbed Kilimanjaro recently or taken any SCUBA diving courses, but I do try to squeeze in a jog most days, follow the European soccer leagues and play the occassional video game with the kids.</p>
 <p>🔭 I’m currently working on my resume, improving my LinkedIn profile and scouring the job boards for Junior Web Dev<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
