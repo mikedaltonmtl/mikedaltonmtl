@@ -8,6 +8,8 @@ Seeking new opportunity in Web Development:
 Here are some ideas to get you started:
 -->
 
+<p>😄 I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</p>
+<p>I've been a stay-at-home Dad for the past ten years, but with the (three) kids now out of the house during the day, I can't wait to actually have adult conversations again! More seriously, I've long held a passion for coding, for understanding how things work under the hood, and I see this as my big chance to do this everyday. They say that 'if you're doing what you love it's not really work' (or something like that!), well, I'm ready to put that to the test.</p>
 <p>🔭 I’m currently working on my resume, improving my LinkedIn profile and scouring the job boards for Junior Web Dev opportunities.</p>
 <p>🌱 I’m currently learning how to code a 2D, Legend of Zelda-type game, using CSS and Javascript.</p>
 <p>👯 I’m looking to collaborate on anything level-appropriate, preferably as a way to learn TypeScript.</p>
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mike-dalton-4a002224"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
-😄 Pronouns: ...
 ⚡ Fun fact: ...
 -->
 <br/>
