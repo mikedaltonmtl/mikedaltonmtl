@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...
 -->
 <br/>
-<h3>:bookmark_tabs: Languages</h3>
+<h3><!--:bookmark_tabs: -->Languages</h3>
 
 [![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-<h3>:books: Frameworks, Libraries & Environments</h3>
+<h3><!--:books: -->Frameworks, Libraries & Environments</h3>
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![ActiveRecord](https://img.shields.io/badge/-ActiveRecord-CC0000?style=for-the-badge&logo=ActiveRecord&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
 
-<h3>:ballot_box_with_check: Testing</h3>
+<h3><!--:ballot_box_with_check: -->Testing</h3>
 
 [![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
 [![Chai](https://img.shields.io/badge/-Chai-white?style=for-the-badge&logo=chai&logoColor=A30701)](https://www.chaijs.com/)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![Jest](https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)](https://jestjs.io/)
 [![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
-<h3>:open_file_folder: Systems, CMS & Databases</h3>
+<h3><!--:open_file_folder: -->Systems, CMS & Databases</h3>
 
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
