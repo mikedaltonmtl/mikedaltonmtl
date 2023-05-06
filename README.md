@@ -1,9 +1,9 @@
+### Hi there 👋
 <h3>:bust_in_silhouette: Mike Dalton</h3>
 Seeking new opportunity in Web Development
 <br/><br/>
 
 <!--
-### Hi there 👋
 **mikedaltonmtl/mikedaltonmtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
