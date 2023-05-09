@@ -40,13 +40,12 @@ Seeking new opportunity in Web Development:
 [![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rails&logoColor=white)](https://rubyonrails.org/)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-
 [![AJAX](https://img.shields.io/badge/ajax-%23316192.svg?style=for-the-badge&logo=ajax&logoColor=white)](https://en.wikipedia.org/wiki/Ajax_(programming))
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=#010101)](https://socket.io/)
 
+[![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=#010101)](https://socket.io/)
 [![Chat Engine](https://img.shields.io/badge/-Chat%20Engine-A30701?style=for-the-badge&logo=livechat&logoColor=white)](https://chatengine.io/)
 [![Twilio](https://img.shields.io/badge/-Twilio-white?style=for-the-badge&logo=twilio&logoColor=#F22F46)](https://www.twilio.com/)
 [![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com/)
