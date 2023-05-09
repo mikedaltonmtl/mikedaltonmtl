@@ -68,23 +68,21 @@ Seeking new opportunity in Web Development:
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <h3>Statistics</h3>
-<p align="center">
-
 <!-- dark mode only -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&hide=issues,stars&count_private=true&show_icons=true&&theme=dark#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&hide_progress=true&theme=dark#gh-dark-mode-only" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+</a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="top" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&theme=dark#gh-dark-mode-only" />
+</a>
+
 <!-- light mode only -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&hide=issues,stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&hide_progress=true&theme=default#gh-light-mode-only" />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&count_private=true&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only" />
+</a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="top" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&theme=default#gh-light-mode-only" />
+</a>
 
 ---
 
