@@ -81,7 +81,6 @@ Seeking new opportunity in Web Development:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="top" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&theme=default#gh-light-mode-only" />
 </a>
+<br/><br/>
 
----
-
-Github stats cards created by [anuraghraza](https://github.com/anuraghazra) as part of a repo found [here](https://github.com/anuraghazra/github-readme-stats).
+>Github stats cards created by [anuraghraza](https://github.com/anuraghazra) as part of a repo found [here](https://github.com/anuraghazra/github-readme-stats).
