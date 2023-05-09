@@ -69,6 +69,8 @@ Seeking new opportunity in Web Development:
 
 <h3>Statistics</h3>
 <p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedaltonmtl)](https://github.com/mikedaltonmtl/github-readme-stats)
+
 <!-- dark mode only -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&hide=issues,stars&count_private=true&show_icons=true&&theme=dark#gh-dark-mode-only" />
