@@ -69,7 +69,6 @@ Seeking new opportunity in Web Development:
 
 <h3>Statistics</h3>
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedaltonmtl)](https://github.com/mikedaltonmtl/github-readme-stats)
 
 <!-- dark mode only -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
