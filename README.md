@@ -69,8 +69,9 @@ Seeking new opportunity in Web Development:
 
 <h3>Statistics</h3>
 <!-- dark mode only -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
-<br/>
+</a><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="top" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&theme=dark#gh-dark-mode-only" />
 </a>
