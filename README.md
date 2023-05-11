@@ -69,7 +69,7 @@ Seeking new opportunity in Web Development:
 <!-- dark mode only -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api?username=mikedaltonmtl&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
-</a><br/>
+</a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="top" src="https://github-readme-stats-6nzrbsgmc-mikedaltonmtl.vercel.app/api/top-langs/?username=mikedaltonmtl&theme=dark#gh-dark-mode-only" />
 </a>
