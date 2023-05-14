@@ -13,7 +13,7 @@ Seeking new opportunity in Web Development:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
 <p>🌱 My latest endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My 'pizza' repository is a mini 'who dunnit' murder mystery.</p>
-<p>🤔 I’m going to learn: Python. Hopefully, it's not too dissimilar to JavaScript?!</p>
+<p>🤔 Next up: A personal portfolio website - it's time to play with some fancy CSS!</p>
 <!--
 <p>👯 I’m looking to collaborate on anything level-appropriate, preferably as a way to learn TypeScript.</p>
 -->
