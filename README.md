@@ -9,12 +9,13 @@ Seeking new opportunity in Web Development:
 
 <p>As most parents will probably agree, it's not easy to have too many outside interests when you're bringing up young children. I've not climbed Kilimanjaro recently or taken any SCUBA diving courses, but I do try to squeeze in a jog most days, follow the European soccer leagues and play the occassional game with the kids.</p>
 
-<p>🔭 I’m currently working on: my resume, improving my LinkedIn profile and scouring the job boards for Junior Web Dev<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
+<p>🔭 I’m currently working on: my resume, improving my LinkedIn profile and scouring the job boards for<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
 <p>🌱 Recent endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My 'pizza' repository is a mini 'who dunnit' murder mystery.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
-<p>👯 Next up: I’m porting my Tweeter project into a NextJS environment. I was going to deploy it 'as is', but I think this way will be more fun.</p>
+<p>👯 Next up: I’m porting my Tweeter project into a NextJS environment.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but I think this way will be more fun.</p>
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep).</p>
 
 <h3>How to reach me:</h3> 
