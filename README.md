@@ -11,11 +11,11 @@ Seeking new opportunity in Web Development:
 
 <p>🔭 I’m currently working on: my resume, improving my LinkedIn profile and scouring the job boards for Junior Web Dev<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
-<p>🌱 My latest endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
+<p>🌱 Recent endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My 'pizza' repository is a mini 'who dunnit' murder mystery.</p>
-<p>🤔 Next up: A personal portfolio website - it's time to play with some fancy CSS!</p>
+<p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <!--
-<p>👯 I’m looking to collaborate on anything level-appropriate, preferably as a way to learn TypeScript.</p>
+<p>👯 Next up: I’m porting my Tweeter project into a NextJS environment. I was going to deploy it 'as is', but this way seemed more fun.</p>
 -->
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep).</p>
 
