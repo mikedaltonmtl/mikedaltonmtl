@@ -16,6 +16,7 @@ Seeking new opportunity in Web Development:
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <p>👯 Just completed: Porting my Tweeter project into a NextJS environment.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but this way was much more fun.</p>
+<p>🤔 Next up: Another React project.</p>
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the might Hammers European Cup success!</p>
 
 <h3>How to reach me:</h3> 
