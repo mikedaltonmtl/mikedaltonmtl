@@ -17,7 +17,7 @@ Seeking new opportunity in Web Development:
 <p>👯 Just completed: Porting my Tweeter project into a NextJS environment.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but this way was much more fun.</p>
 <p>🤔 Next up: Another React project.</p>
-<p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the might Hammers European Cup success!</p>
+<p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the Mighty Hammers European Cup success!</p>
 
 <h3>How to reach me:</h3> 
 <a href="https://www.linkedin.com/in/mike-dalton-4a002224"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
