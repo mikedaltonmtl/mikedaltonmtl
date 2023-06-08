@@ -14,9 +14,9 @@ Seeking new opportunity in Web Development:
 <p>🌱 Recent endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My 'pizza' repository is a mini 'who dunnit' murder mystery.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
-<p>👯 Next up: I’m porting my Tweeter project into a NextJS environment.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but I think this way will be more fun.</p>
-<p>💬 Ask me about: the English Premier League (if you need help falling asleep).</p>
+<p>👯 Just completed: Porting my Tweeter project into a NextJS environment.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but this way was much more fun.</p>
+<p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the might Hammers European Cup success!</p>
 
 <h3>How to reach me:</h3> 
 <a href="https://www.linkedin.com/in/mike-dalton-4a002224"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
