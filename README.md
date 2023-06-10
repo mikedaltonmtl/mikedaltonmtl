@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3>:bust_in_silhouette: Mike Dalton</h3>
-Seeking new opportunity in Web Development:
+Seeking an opportunity in Web Development:
 <br/><br/>
 
 <p>😄 I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, looking for an opportunity to put my newly learned skills to work.</p>
