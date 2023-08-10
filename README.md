@@ -11,11 +11,11 @@ Seeking an opportunity in Web Development:
 
 <p>🔭 I’m currently working on: my resume, improving my LinkedIn profile and scouring the job boards for<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
-<p>🌱 Recent endeavor: I've just completed a 2D, Legend of Zelda-type game, using CSS and JavaScript.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My 'pizza' repository is a mini 'who dunnit' murder mystery.</p>
+<p>🌱 Recent endeavor: I've just completed a gallery site to collate all the photos we're taking of our new puppy,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
-<p>👯 Just completed: Porting my Tweeter project into a NextJS environment.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was going to deploy it 'as is', but this way was much more fun.</p>
+<p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, using CSS (Tailwind) and NextJS</p>
 <p>🤔 Next up: Redux, TypeScript and GraphQL.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They seem good things to learn to improve my chances of getting hired?!</p>
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the Mighty Hammers European Cup success!</p>
