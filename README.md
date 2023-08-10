@@ -12,7 +12,7 @@ Seeking an opportunity in Web Development:
 <p>🔭 I’m currently working on: my resume, improving my LinkedIn profile and scouring the job boards for<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
 <p>🌱 Recent endeavor: I've just completed a gallery site to collate all the photos we're taking of our new puppy,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, using CSS (Tailwind) and NextJS</p>
