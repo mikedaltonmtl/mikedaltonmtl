@@ -13,8 +13,8 @@ Seeking an opportunity in Web Development:
 <p>🌱 Recent endeavor: updating my resume, improving my LinkedIn profile and scouring the job boards for<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
-<p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, using CSS (Tailwind) and NextJS</p>
+<p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS</p>
 <p>🤔 Next up: Redux, TypeScript and GraphQL.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They seem good things to learn to improve my chances of getting hired?!</p>
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the Mighty Hammers European Cup success!</p>
