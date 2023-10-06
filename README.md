@@ -9,7 +9,7 @@ Seeking an opportunity in Web Development:
 
 <p>As most parents will probably agree, it's not easy to have too many outside interests when you're bringing up young children. I've not climbed Kilimanjaro recently or taken any SCUBA diving courses, but I do try to squeeze in a jog most days, follow the European soccer leagues and play the occasional game with the kids.</p>
 
-<p>🔭 I’m currently working on: Learning Redux Toolkit.</p>
+<p>🔭 I’m currently working on: figuring out how to use Shadcn/ui.... it's pretty impressive so far!</p>
 <p>🌱 Recent endeavor: updating my resume, improving my LinkedIn profile and scouring the job boards for<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
