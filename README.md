@@ -11,8 +11,8 @@ Seeking an opportunity in Web Development:
 
 <p>🔭 I’m currently working on: a word puzzle app called Letter Ladder.  Inspired by the surge in popularity of on-line puzzles and the success of Wordle, 
   I'm currently part of a project team within the <a href="https://newideamachine.com/">New Idea Machine</a> framework building the app.</p>
-<p>🌱 Recent endeavor: a great work experience opportunity with ReturnPal, a Toronto-based start-up. Front-end development using shadcn/ui.</p>
-<p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
+<p>🌱 Latest endeavor: a great work experience opportunity with ReturnPal, a Toronto-based start-up. Front-end development using shadcn/ui.</p>
+<p>🤔 Recent endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS.</p>
 <p>🤔 Next up: Redux, TypeScript and GraphQL.<br />
