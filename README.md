@@ -9,9 +9,9 @@ Seeking an opportunity in Web Development:
 
 <p>As most parents will probably agree, it's not easy to have too many outside interests when you're bringing up young children. I've not climbed Kilimanjaro recently or taken any SCUBA diving courses, but I do try to squeeze in a jog most days, follow the European soccer leagues and play the occasional game with the kids.</p>
 
-<p>🔭 I’m currently working on: figuring out how to use shadcn/ui.... it's pretty impressive so far!</p>
-<p>🌱 Recent endeavor: updating my resume, improving my LinkedIn profile and scouring the job boards for<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Web Dev opportunities.</p>
+<p>🔭 I’m currently working on: a word puzzle app called Letter Ladder.  Inspired by the surge in popularity of on-line puzzles and the success of Wordle, 
+  I'm currently part of a project team within the <a href="https://newideamachine.com/">New Idea Machine</a> framework building the app.</p>
+<p>🌱 Recent endeavor: a great work experience opportunity with ReturnPal, a Toronto-based start-up. Front-end development using shadcn/ui.</p>
 <p>🤔 Latest endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <p>🌱 👯 Just completed: A gallery site to collate all the photos we're taking of our new puppy,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS.</p>
