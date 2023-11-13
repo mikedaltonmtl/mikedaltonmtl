@@ -13,10 +13,8 @@ Seeking an opportunity in Web Development:
   I'm currently part of a project team within the <a href="https://newideamachine.com/">New Idea Machine</a> framework building the app.</p>
 <p>🌱 Latest endeavor: a great work experience opportunity with ReturnPal, a Toronto-based start-up. Front-end development using Next.js & shadcn/ui.</p>
 <p>🤔 Recent endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
-<p>👯 Also complete: A gallery site to collate all the photos we're taking of our new puppy,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using CSS (Tailwind) and NextJS.</p>
-<p>🤔 Next up & in progress: Redux, TypeScript and GraphQL.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They seem good things to learn to improve my chances of getting hired?!</p>
+<p>👯 Also complete: A gallery site to collate all the photos we're taking of our new puppy, using CSS (Tailwind) and NextJS.</p>
+<p>🤔 Next up & in progress: Redux, TypeScript and GraphQL. They seem good things to learn to improve my chances of getting hired?!</p>
 <p>💬 Ask me about: the English Premier League (if you need help falling asleep) or the Mighty Hammers European Cup success!</p>
 
 <h3>How to reach me:</h3> 
