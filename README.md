@@ -9,6 +9,7 @@ Seeking an opportunity in Web Development:
 
 <p>As most parents will probably agree, it's not easy to have too many outside interests when you're bringing up young children. I've not climbed Kilimanjaro recently or taken any SCUBA diving courses, but I do try to squeeze in a jog most days, follow the European soccer leagues and play the occasional game with the kids.</p>
 
+<p>💬 Always be learning: I've just cloned my first full-stack assessment from the Hatchways. I've been spending too much time on the front-end of late, so it's time to polish up those back-end skills!</p>
 <p>🔭 I’m currently working on: a word puzzle app called Letter Ladder. Inspired by the surge in popularity of on-line puzzles and the success of Wordle, 
   I'm currently part of a project team within the <a href="https://newideamachine.com/">New Idea Machine</a> framework building the app.</p>
 <p>🌱 Latest endeavor: a great work experience opportunity with <a href="https://return-pal-mikedaltonmtl.vercel.app/">ReturnPal</a>, a Toronto-based start-up. Front-end development using Next.js, TypeScript & shadcn/ui.</p>
