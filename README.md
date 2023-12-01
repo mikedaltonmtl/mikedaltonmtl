@@ -12,7 +12,7 @@ Seeking an opportunity in Web Development:
 <p>💬 Always be learning: I've just cloned my first full-stack assessment from <a href="https://www.hatchways.io/">Hatchways</a>. I've been spending too much time on the front-end of late, so it's time to polish up those back-end skills... I can't wait to get started!</p>
 <p>🔭 I’m currently working on: a word puzzle app called Letter Ladder. Inspired by the surge in popularity of on-line puzzles and the success of Wordle, 
   I'm currently part of a project team within the <a href="https://newideamachine.com/">New Idea Machine</a> framework building the app.</p>
-<p>🌱 Latest endeavor: a great work experience opportunity with <a href="https://return-pal-mikedaltonmtl.vercel.app/">ReturnPal</a>, a Toronto-based start-up. Front-end development using Next.js, TypeScript & shadcn/ui.</p>
+<p>🌱 Latest endeavor: a great work experience opportunity with <a href="https://return-pal-mikedaltonmtl.vercel.app/">ReturnPal</a>, a Toronto-based start-up. Front-end development using Next.js, TypeScript & shadcn/ui. This repository remains private though, as the code is proprietary.</p>
 <p>🤔 Recent endeavor: A personal portfolio website - it was fun to play with fancy CSS and animations!</p>
 <p>👯 Also complete: A gallery site to collate all the photos we're taking of our new puppy, using CSS (Tailwind) and NextJS.</p>
 <p>🤔 Next up & in progress: Redux, TypeScript and GraphQL. They seem good things to learn to improve my chances of getting hired?!</p>
